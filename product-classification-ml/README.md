@@ -2,7 +2,7 @@
 
 This project focuses on building a machine learning model to automatically classify products into categories based on their titles.
 
-It simulates a real-world business scenario where an e-commerce platform needs to categorize thousands of products efficiently and accurately.
+It simulates a real-world e-commerce scenario where thousands of products need to be categorized efficiently and accurately.
 
 ---
 
@@ -10,7 +10,7 @@ It simulates a real-world business scenario where an e-commerce platform needs t
 
 * Analyzed a dataset of 30,000+ products
 * Cleaned and preprocessed text data
-* Applied feature engineering techniques on product titles
+* Applied feature engineering on product titles
 * Trained and evaluated multiple machine learning models
 * Selected and saved the best-performing model
 * Built an interactive prediction system for real-time classification
@@ -22,35 +22,71 @@ It simulates a real-world business scenario where an e-commerce platform needs t
 * Python
 * pandas
 * scikit-learn
-* NLP (TF-IDF)
+* NLP (TF-IDF Vectorization)
 * Jupyter Notebook / Google Colab
 
 ---
 
-## Model Features
+## Model Evaluation
 
-* Text preprocessing and cleaning
-* TF-IDF vectorization
-* Classification using machine learning algorithms
-* Model evaluation (accuracy, precision, recall, F1-score)
+The model was evaluated using standard classification metrics:
+
+* Accuracy
+* Precision
+* Recall
+* F1-score
+
+Detailed results are available in the `/reports` folder:
+
+* Confusion matrix
+* Classification report
+* Metrics summary
 
 ---
 
 ## How to Use
 
-1. Run the training script:
+### 1. Train the model
 
-```
+Run the training script:
+
+```bash
 python train_model.py
 ```
 
-2. Test predictions:
+### 2. Predict category
 
-```
+Run the prediction script:
+
+```bash
 python predict_category.py
 ```
 
-3. Enter product title and get predicted category
+Enter a product title and the model will predict its category.
+
+---
+
+## Project Structure
+
+```
+product-classification-ml/
+│
+├── notebooks/
+│   └── product_category_prediction.ipynb
+│
+├── models/
+│   └── product_category_model.pkl
+│
+├── reports/
+│   ├── confusion_matrix.png
+│   ├── classification_report.txt
+│   └── metrics_summary.json
+│
+├── train_model.py
+├── predict_category.py
+├── requirements.txt
+├── README.md
+```
 
 ---
 
@@ -60,18 +96,20 @@ python predict_category.py
 * Text classification (NLP)
 * Feature engineering
 * Model evaluation and selection
-* Practical business problem solving
+* Working with real-world datasets
+* Writing reusable and structured code
 
 ---
 
 ## Dataset
 
-Dataset contains product titles and categories (not included due to size).
+The dataset contains product titles and their corresponding categories.
+It is not included in the repository due to size.
 
 ---
 
 ## Business Value
 
-This model reduces manual categorization effort, improves accuracy, and speeds up product listing in e-commerce systems.
+This solution reduces manual categorization effort, improves accuracy, and speeds up product listing in e-commerce systems.
 
 ---
