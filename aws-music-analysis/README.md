@@ -59,3 +59,7 @@ This project demonstrates an end-to-end workflow:
 from raw cloud data → processing → analysis → final results stored and shared via cloud.
 
 ---
+
+AWS credentials are not included for security reasons.
+
+---
