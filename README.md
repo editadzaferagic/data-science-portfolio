@@ -1,4 +1,4 @@
-# Edita Dzaferagic – Data Anlaytics Portfolio
+# Edita Dzaferagic – Data Science Portfolio
 
 Welcome to my portfolio repository!
 This repository showcases my work in **data analysis, machine learning, and cloud-based data processing** using real-world datasets and practical use cases.
@@ -9,9 +9,21 @@ I am currently completing an **AI & Python Development program**, where I have g
 
 ## Featured Projects
 
-- 🤖 Product Category Classification (Machine Learning)
-- ☁️ AWS Music Data Analysis
-- 📩 Spam Message Classifier (NLP)
+### Product Category Classification (Machine Learning)
+
+End-to-end machine learning project for automatic product categorization using NLP techniques.
+
+### AWS Music Data Analysis
+
+Cloud-based data analysis pipeline using AWS S3, Python, and Boto3 for processing and aggregating large datasets.
+
+### Spotify Data Analysis
+
+Exploratory data analysis project focused on artist popularity, song trends, and explicit content patterns using Python and data visualization tools.
+
+### Spam Message Classifier (NLP)
+
+Interactive machine learning tool for real-time spam detection using TF-IDF and Logistic Regression.
 
 ---
 
@@ -30,9 +42,7 @@ I am currently completing an **AI & Python Development program**, where I have g
 
 ### AWS Music Data Analysis
 
-Cloud-based data analysis project using AWS S3 and Python.
-Designed and implemented a workflow to upload, organize, and process multiple datasets stored in the cloud.
-Used Boto3 and pandas to automate data ingestion, merge datasets, and generate aggregated insights.
+Cloud-based data analysis project using AWS S3 and Python. Designed and implemented a workflow to upload, organize, and process multiple datasets stored in the cloud. Used Boto3 and pandas to automate data ingestion, merge datasets, and generate aggregated insights.
 
 **Technologies:** Python, AWS S3, Boto3, pandas, Google Colab
 
@@ -40,9 +50,7 @@ Used Boto3 and pandas to automate data ingestion, merge datasets, and generate a
 
 ### Spotify Data Analysis
 
-Performed exploratory data analysis on a dataset of 10,000+ songs.
-Analyzed trends in artist popularity, frequency, and explicit content over time.
-Created visualizations to communicate insights clearly and effectively.
+Performed exploratory data analysis on a dataset of 10,000+ songs. Analyzed trends in artist popularity, frequency, and explicit content over time. Created visualizations to communicate insights clearly and effectively.
 
 **Technologies:** Python, pandas, matplotlib, seaborn
 
@@ -50,9 +58,7 @@ Created visualizations to communicate insights clearly and effectively.
 
 ### Product Category Classification (Machine Learning)
 
-Developed a machine learning model to classify products based on their titles.
-Included full pipeline: data preprocessing, feature engineering, model training, and evaluation.
-Focused on solving a real-world business problem using supervised learning.
+Developed a machine learning model to classify products based on their titles. Implemented a full pipeline including data preprocessing, feature engineering, model training, and evaluation. Focused on solving a real-world business problem using supervised learning.
 
 **Technologies:** Python, scikit-learn
 
@@ -60,9 +66,7 @@ Focused on solving a real-world business problem using supervised learning.
 
 ### Spam Message Classifier (NLP)
 
-Built a spam detection model using TF-IDF vectorization and Logistic Regression.
-Implemented an interactive script allowing real-time classification of user-input messages.
-Demonstrates practical use of NLP techniques for text classification.
+Built a machine learning-based spam detection tool using TF-IDF vectorization and Logistic Regression. Developed an interactive console application for real-time classification of user-input messages.
 
 **Technologies:** Python, scikit-learn
 
@@ -72,12 +76,16 @@ Demonstrates practical use of NLP techniques for text classification.
 
 I am particularly interested in:
 
-* **AI / Machine Learning**
-* **Data Analysis / Business Intelligence**
-* **Cloud Data Processing**
+* AI / Machine Learning
+* Data Analysis / Business Intelligence
+* Cloud Data Processing
 
 ---
 
 ## Contact
 
-* Email: edita.dzaferagic@outlook.com
+* Email: [edita.dzaferagic@outlook.com]
+
+---
+
+*Open to internship opportunities in Data Science, AI, and Cloud roles.*
