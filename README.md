@@ -7,6 +7,14 @@ I am currently completing an **AI & Python Development program**, where I have g
 
 ---
 
+## Featured Projects
+
+- 🤖 Product Category Classification (Machine Learning)
+- ☁️ AWS Music Data Analysis
+- 📩 Spam Message Classifier (NLP)
+
+---
+
 ## Technical Skills
 
 * **Programming:** Python, SQL
