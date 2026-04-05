@@ -9,21 +9,17 @@ I am currently completing an **AI & Python Development program**, where I have g
 
 ## Featured Projects
 
-### Product Category Classification (Machine Learning)
+### AWS Music Data Analysis
+Cloud-based data analysis pipeline using AWS S3, Python, and Boto3 for processing and aggregating datasets.
 
+### Product Category Classification (Machine Learning)
 End-to-end machine learning project for automatic product categorization using NLP techniques.
 
-### AWS Music Data Analysis
-
-Cloud-based data analysis pipeline using AWS S3, Python, and Boto3 for processing and aggregating large datasets.
+### Spam Message Classifier (NLP)
+Interactive machine learning tool for real-time spam detection using TF-IDF and Logistic Regression.
 
 ### Spotify Data Analysis
-
-Exploratory data analysis project focused on artist popularity, song trends, and explicit content patterns using Python and data visualization tools.
-
-### Spam Message Classifier (NLP)
-
-Interactive machine learning tool for real-time spam detection using TF-IDF and Logistic Regression.
+Exploratory data analysis project focused on trends, popularity, and visualization of music data.
 
 ---
 
@@ -48,14 +44,6 @@ Cloud-based data analysis project using AWS S3 and Python. Designed and implemen
 
 ---
 
-### Spotify Data Analysis
-
-Performed exploratory data analysis on a dataset of 10,000+ songs. Analyzed trends in artist popularity, frequency, and explicit content over time. Created visualizations to communicate insights clearly and effectively.
-
-**Technologies:** Python, pandas, matplotlib, seaborn
-
----
-
 ### Product Category Classification (Machine Learning)
 
 Developed a machine learning model to classify products based on their titles. Implemented a full pipeline including data preprocessing, feature engineering, model training, and evaluation. Focused on solving a real-world business problem using supervised learning.
@@ -69,6 +57,14 @@ Developed a machine learning model to classify products based on their titles. I
 Built a machine learning-based spam detection tool using TF-IDF vectorization and Logistic Regression. Developed an interactive console application for real-time classification of user-input messages.
 
 **Technologies:** Python, scikit-learn
+
+---
+
+### Spotify Data Analysis
+
+Performed exploratory data analysis on a dataset of 10,000+ songs. Analyzed trends in artist popularity, frequency, and explicit content over time. Created visualizations to communicate insights clearly and effectively.
+
+**Technologies:** Python, pandas, matplotlib, seaborn
 
 ---
 
