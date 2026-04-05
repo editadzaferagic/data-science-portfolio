@@ -4,7 +4,7 @@ This project implements a machine learning-based spam detection tool using natur
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 * Loaded and cleaned text message data
 * Converted text into numerical features using TF-IDF vectorization
@@ -13,7 +13,7 @@ This project implements a machine learning-based spam detection tool using natur
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 * Python
 * scikit-learn
